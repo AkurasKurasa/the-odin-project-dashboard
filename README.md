@@ -1,3 +1,3 @@
 # the-odin-project-dashboard
 
-test test
+A product from The Odin Project's Javascript Course
